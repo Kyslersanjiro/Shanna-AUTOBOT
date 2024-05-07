@@ -7,6 +7,7 @@ body {
 		animation: gradient 15s ease infinite;
 		background-size: 400% 400%;
 		background-attachment: fixed;
+	        background-image: url('https://i.ibb.co/286RL8q/desktop-wallpaper-stunning-galaxy-high-resolution-s-collection-winter-galaxy-2.jpg');
 }
 
 @keyframes gradient {
